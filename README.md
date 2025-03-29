@@ -110,9 +110,9 @@ This project aims to:
 | **Nada Mostafa** | Documentation & Report Writing | [LinkedIn](https://www.linkedin.com/in/nada-mostafa-67853b324/) |  
 | **Jana Nour** | Photographer & Presentation | [LinkedIn](https://www.linkedin.com/in/jana-nour-1510bb324/) |  
 
+<img src="https://github.com/user-attachments/assets/22ef746e-db69-44b2-910a-221e0348073c" alt="Temperature Display" width="500" />  
 <img src="https://github.com/user-attachments/assets/30e36c86-5256-4a70-839a-70ae97260164" alt="Temperature Display" width="500" />  
 <img src="https://github.com/user-attachments/assets/e2cba238-ceec-4f41-8df1-9a0a8baa6ecf" alt="Temperature Display" width="500" />
-<img src="https://github.com/user-attachments/assets/22ef746e-db69-44b2-910a-221e0348073c" alt="Temperature Display" width="500" />  
 
 ---  
 
