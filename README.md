@@ -14,7 +14,7 @@
 - [💎 Design](#-design)  
 - [🎮 Usage](#-usage)  
 - [📊 Project Goals](#-project-goals)  
-- [👥 Team Roles](#-team-roles)  
+- [👥 Team Roles & Memories](#-team-roles--memories)
 - [📜 License](#-license)  
 
 ---  
@@ -101,7 +101,7 @@ This project aims to:
 
 ---  
 
-## 👥 Team Roles  
+## 👥 Team Roles  & Memories
 | Member | Role | LinkedIn |  
 |--------|------------------------------|----------------|  
 | **Ibrahim Abdelkader** (Leader) | Hardware Setup & Integration | [LinkedIn](https://www.linkedin.com/in/ibrahim-abdelqader-93b9b124b/) |  
@@ -109,6 +109,10 @@ This project aims to:
 | **Menna Atef** | Project Design | [LinkedIn](https://www.linkedin.com/in/menna-atef-05355b32a/) |  
 | **Nada Mostafa** | Documentation & Report Writing | [LinkedIn](https://www.linkedin.com/in/nada-mostafa-67853b324/) |  
 | **Jana Nour** | Photographer & Presentation | [LinkedIn](https://www.linkedin.com/in/jana-nour-1510bb324/) |  
+
+<img src="https://github.com/user-attachments/assets/30e36c86-5256-4a70-839a-70ae97260164" alt="Temperature Display" width="500" />  
+<img src="https://github.com/user-attachments/assets/e2cba238-ceec-4f41-8df1-9a0a8baa6ecf" alt="Temperature Display" width="500" />
+<img src="https://github.com/user-attachments/assets/22ef746e-db69-44b2-910a-221e0348073c" alt="Temperature Display" width="500" />  
 
 ---  
 
